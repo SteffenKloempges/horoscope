@@ -1,0 +1,21 @@
+body{
+    background: url(../img/denis-degioanni-9wH624ALFQA-unsplash.jpg) center / cover no-repeat;
+    color: #fff;
+}
+section{
+    padding: 25vh 0px 40vh 0px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+section div:nth-of-type(2){
+    width: 300px;
+}
+
+section div h3{
+    color: red;
+}
+section div img{
+    display: none;
+}
